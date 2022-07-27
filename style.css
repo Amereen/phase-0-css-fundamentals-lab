@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  background-color: pink;
+}
+
+ 
+h1 { 
+ font-size: 20px;
+ text-align: center;
+ }
+
+ p {
+  width: 800px;
+  text-align: center;
+  
+ }
+div {
+  float: left;
+  background-color: pink;
+  text-align: center;
+   width: auto;
+}
